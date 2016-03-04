@@ -1,0 +1,14 @@
+[
+    {
+        "keys": ["ctrl+b"], "command": "insert_snippet", "args": {"name": "Packages/MarkDown-Perso/snippets/md-bold.sublime-snippet"},
+        "context": [
+        	{"key": "selector", "operator": "equal", "operand": "text.html.markdown"}
+        ]
+    },
+    {
+        "keys": ["ctrl+i"], "command": "insert_snippet", "args": {"name": "Packages/MarkDown-Perso/snippets/md-italic.sublime-snippet"},
+        "context": [
+        	{"key": "selector", "operator": "equal", "operand": "text.html.markdown"}
+        ]
+    },
+]
